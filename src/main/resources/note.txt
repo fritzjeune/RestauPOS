@@ -1,0 +1,10 @@
+
+
+// manage products / inventary
+add / edit / delete / get products
+manage in bills
+add products
+sum products
+apply coupon
+apply discounts
+print reciept
